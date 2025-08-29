@@ -1,10 +1,9 @@
 # 📔**Project-Based Intership Home Credit Score Card**
-<p>Tool : Google Collab</p>
-<p>Programming Language : Python</p>
-<p>Libraries : </p>
-<p>Visualization : </p>
-<p>Source Dataset : Rakamin Academy</p>
-<br>
+Tool : Google Collab <br>
+Programming Language : Python <br>
+Libraries : <br>
+Visualization : <br>
+Source Dataset : Rakamin Academy <br>
 
 # 📂 STAGE 0: Business Understanding
 ## Background Project :
