@@ -3,7 +3,7 @@ Tool : Google Collab <br>
 Programming Language : Python <br>
 Libraries : <br>
 Visualization : <br>
-Source Dataset : Rakamin Academy : Home Credit <br>
+Source Dataset : Rakamin Academy (Home Credit) <br>
 
 # 📂 STAGE 0: Business Understanding
 ## Background Project :
